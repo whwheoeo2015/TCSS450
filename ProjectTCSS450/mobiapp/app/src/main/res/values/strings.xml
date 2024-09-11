@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">urUW</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_parking">Parking</string>
+    <string name="title_classPlan">Class Plan</string>
+    <string name="title_campusMap">Campus Map</string>
+
+
+    <!-- Campus map >-->
+    <string name="ClickToCampusMap">Click Here To Open In Browser</string>
+
+    <!-- About page >-->
+    <string name="Developer3_info">Name: Junghyon Jo Email: whwheoeo@uw.edu</string>
+    <string name="Developer2_info">Name: Edward Chung Email: edward92@uw.edu</string>
+    <string name="Developer1_info">Name: Tu Phan Email: dinhtu@uw.edu</string>
+    <string name="About_Information">This application goes through some of the basic information to guide freshman students in CS majors at University of Washington Tacoma.</string>
+    <!--    <string name="Developer3_email">whwheoeo@uw.edu</string>-->
+    <!--    <string name="Developer2_email">edward92@uw.edu</string>-->
+    <!--    <string name="Developer1_email">dinhtu@uw.edu</string>-->
+    <!-- Buttons >-->
+    <string name="Class_button">Class plan</string>
+    <string name="Map_button">Campus Map</string>
+    <!-- Class Plan >-->
+    <string name="To_Apply">Apply Information</string>
+    <string name="To_Graduate">Graduate Information</string>
+    <string name="To_Add_Quarter">Add/View Quarter</string>
+    <string name="To_Display_Quarter">View All Classes</string>
+    <string name="Class_Plan">Class Plan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_Add_Course_hint">Add Course EX:TCSS450</string>
+    <string name="button_ADD">Add</string>
+    <string name="edit_Delete_Course_hint">Delete Your Course</string>
+    <string name="edit_ADD_Year_hint">Add Quarter EX:Spring2024</string>
+    <string name="button_Delete">Delete</string>
+    <string name="Fresh_button">Fresh man</string>
+    <string name="Transfer_button">Transfer student</string>
+    <string name="Graduation_button">Graduation</string>
+</resources>
